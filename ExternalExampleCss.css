@@ -1,0 +1,23 @@
+/*This is my CSS programming Example
+This is a comment and how we write it */
+
+/*	This colors the <ul> items red */
+ul  {color: red;}
+/*	This colors the <ol> items back to black */
+ol li{ color: black;}
+/*	This will change <ol> items when the mouse 
+	moves over them */
+ol li:hover {	text-decoration: underline;
+			font-weight: bold; 
+			color: blue;
+			}
+/*	This changes anything with the 
+	heading class selector to blue*/
+.heading {color: blue;}
+/*	This is an ID for the 
+	Bears paragraph*/
+#bears{ color: #1E189E; 
+		font-size : 30pt;
+		background-color: #A66812;
+		font-family: arial;}
+#AP{text-decoration: line-through;}
